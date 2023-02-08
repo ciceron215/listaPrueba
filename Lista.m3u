@@ -1,7 +1,5 @@
 #EXTM3U
 
-group-title=”Movies”
 
-#EXTINF:-1
+#EXTINF:-1 tvg-id="" tvg-name="La Máquina infernal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VuQopunJnHKI1xejbdRUyDbP0S.jpg" group-title="VOD-ESTRENOS 2022",La Máquina infernal (2022)
 https://os5.mycloud.com/action/share/1d398ae2-0c12-4423-8693-799268b9e260
-
